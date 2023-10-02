@@ -19,6 +19,7 @@ class Animal {
 
 }
 
+/*
 class Dog extends Animal {
     private name: string;
     private gender: boolean;
@@ -43,4 +44,4 @@ const myDog = new Dog("Buddy", true)
 myDog.introduce()
 myDog.sound()
 myDog.setType = "Golden Retriever"
-console.log(`My dog's type is ${myDog.getType}`)
+console.log(`My dog's type is ${myDog.getType}`)*/
